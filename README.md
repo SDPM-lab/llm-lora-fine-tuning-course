@@ -1,9 +1,9 @@
-# llm-lora-fine-tuning-course
+# LLM Lora Fine Tuning
 
-## Setup
+## Environment
 - Python: 3.11
 
 ## Install
 ```bash
-pip install numpy matplotlib
+pip install torch transformers peft gradio tqdm matplotlib
 ```
